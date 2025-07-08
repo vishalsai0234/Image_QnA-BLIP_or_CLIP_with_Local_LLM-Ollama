@@ -17,9 +17,9 @@ You can upload an image, generate captions, compare with descriptions, and ask q
 
 ## Demo
 
-![Screenshot 01](https://github.com/user-attachments/assets/c0679dda-4fd4-4f8c-bc3c-2e7727f0028e)
+![Screenshot 01](https://github.com/user-attachments/assets/b9864581-1b10-425d-818c-ec1321d6ce39)
 
-![Screenshot 2025-07-08 162332](https://github.com/user-attachments/assets/bb73e470-730d-4f20-afdf-eac1afd26326)
+![Screenshot 2025-07-08 162332](https://github.com/user-attachments/assets/bd048b56-87f1-4284-84b7-63b0adcd71cc)
 
 ## Getting Started
 
