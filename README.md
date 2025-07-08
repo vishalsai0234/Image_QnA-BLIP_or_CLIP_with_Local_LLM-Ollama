@@ -1,4 +1,4 @@
-# Image Q&A App with BLIP, CLIP, and Local LLM (Ollama)
+# Image Q&A: BLIP or CLIP with Local LLM (Ollama)
 
 This project is a **Streamlit web application** for image-based question answering. It uses:
 - **BLIP** for image captioning
